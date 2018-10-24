@@ -1,173 +1,53 @@
 [
 	
 	{
-     "title":"الحلقة 12  متوفرة هنا  ",
+     "title":"الحوار التونسي  ",
     "drawable":"",
-    "submenu":"مسلسلات تركية ",
+    "submenu":"اعادة البرامج ",
     "iap":false,
     "tabs":[
     {
-        "title":" حلقات من 1 الي 13",
+        "title":"90 minutes",
         "provider":"youtube",
         "arguments":[
-          "PL-h6kMEy6W5cO_9WsrGxsKM2tzBuhaSBt",
+          "PLFApv2COP4erdokozW_o2xeRy--zYbfMX",
           "playlist"
 
         ]
       },  
 	         {
-        "title":"مسلسلات تركية حصرية",
+        "title":"فكرة سامي الفهري",
         "provider":"youtube",
         "arguments":[
-          "UC5AFDvcGk83DcMGwPlRrscA",
-          "channel"
+          "PLFApv2COP4eoJTo2ggoGFQl9AEQcRsMIx",
+          "playlist"
 
         ]
       },  
 	        {
-        "title":" حلقات الطائر المبكر",
+        "title":"أمور جدية",
         "provider":"youtube",
         "arguments":[
-          "UC48uOgKYE_w6jKCFEvPhAvw",
-          "channel"
+          "PLFApv2COP4eoPaSDXWe39GSya8y0RelCL",
+          "playlist"
 
         ]
       },  
 	          {
-        "title":" ملخصات الطائر المبكر",
+        "title":"مع علاء",
         "provider":"youtube",
         "arguments":[
-          "UCZdAk-DlHElz07ICp0dopGg",
-          "channel"
+          "PLFApv2COP4ep_f9agf4ujqx1vuT4X1CmW",
+          "playlist"
 
         ]
       },  
 	       {
-        "title":"الحلقات  متنوعة",
+        "title":"DTEP",
         "provider":"youtube",
         "arguments":[
-          "UC1VhGkdtk7z_KxB6wtQ-XkQ",
-          "channel"
-
-        ]
-      },  
-	        {
-        "title":"الحلقات باللغة التركية",
-        "provider":"youtube",
-        "arguments":[
-          "UC64mzacdticc87zH870bQGA",
-          "channel"
-
-        ]
-      },  
-	   
-	           {
-        "title":"2 ملخصات الطائر المبكر",
-        "provider":"youtube",
-        "arguments":[
-          "UCPJQoZl7IBOHSIhjT0JuUGQ",
-          "channel"
-
-        ]
-      },  
-	           {
-        "title":" مسلسل - نصيبي وقسمتك الجزء الثاني",
-        "provider":"youtube",
-        "arguments":[
-          "PLk7aOjrbxuora5M5CUD9qEthOvGHYg3sM",
+          "PLFApv2COP4ern5f2fVXJlH8-HGx9oMIZI",
           "playlist"
-
-        ]
-      },  
-	            {
-        "title":" حب أبيض و اسود موسم 1",
-        "provider":"youtube",
-        "arguments":[
-          "PLg-6q1JyoZ_vWkWmfEsWn9m3MMXpnbY7k",
-          "playlist"
-
-        ]
-      },  
-	    	            {
-        "title":" حب أبيض و اسود موسم 2",
-        "provider":"youtube",
-        "arguments":[
-          "PLg-6q1JyoZ_tgYfgGzvY0Dkd9NDw5-CA1",
-          "playlist"
-
-        ]
-      },  
-	    	            {
-        "title":" حب أبيض و اسود موسم 3",
-        "provider":"youtube",
-        "arguments":[
-          "PLg-6q1JyoZ_ui_3NmCU27NbYxiFjPUbSM",
-          "playlist"
-
-        ]
-      },  
-	                {
-        "title":" موقع قصة عشق",
-        "provider":"youtube",
-        "arguments":[
-          "UCqTeJEp9GX-OXwvbr-2HCfQ",
-          "channel"
-
-        ]
-      },  
-	       
-	               {
-        "title":" المسلسل الجديد  الحب الأول ",
-        "provider":"youtube",
-        "arguments":[
-          "UCYA7TeBudluc2lW1XsSW6qw",
-          "channel"
-
-        ]
-      },  
-	       
-	    
-	              {
-        "title":" مسلسل تركي قلب المدينة ",
-        "provider":"youtube",
-        "arguments":[
-       "PLtOkhQ8cs_FVtP1NE90PB-0drqf1MZEuZ",
-          "playlist"
-
-        ]
-      },  
-	     
-	              {
-        "title":" حكاية سمر",
-        "provider":"youtube",
-        "arguments":[
-       "PLWZvTEKLCxNp_36OhhNryx4FV6Cc6cgyQ",
-          "playlist"
-
-        ]
-      },  
-	     
-	        
-	      
-
-
-	
-	        {
-        "title":"ملخصات",
-        "provider":"youtube",
-        "arguments":[
-          "UC-rpg9WyN7JC98JwtlQBLmw",
-          "channel"
-
-        ]
-      },
-
-	    {
-        "title":" ملخصات مترجمة",
-        "provider":"youtube",
-        "arguments":[
-          "UCNnqAtgF-wb0zAjUZiQ_wUA",
-          "channel"
 
         ]
       }
@@ -176,67 +56,51 @@
   }
 ,
 	
-	 {
-    "title":"اخر حلقة تم بثها هي الحلقة 12 ",
-    "drawable":"",
-    "submenu":"الموقع الرسمي للقناة التركية يبين ذلك",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"WebView",
-        "provider":"webview",
-        "arguments":[
-          "https://www.startv.com.tr/dizi/erkenci-kus/son-bolum"
-        ]
-      }
-    ]
 
-  },	
-	
 
 	
 	
 	{
-     "title":"قائمة المسلسلات",
+    "title":"التاسعة",
     "drawable":"",
-    "submenu":"مسلسلات عربية",
+    "submenu":"اعادة البرامج ",
     "iap":false,
     "tabs":[
 	    {
-        "title":" لعنة كارما",
+        "title":"Abdelli Showtime",
         "provider":"youtube",
         "arguments":[
-          "PL7kBI63vN2IK51Cd5mFaKTwSt3OyIGvKA",
+          "PLTGtCMX0-RuKLhRsZiCPHCaS30yeybBEj",
           "playlist"
 
         ]
       }
 	    ,
 	        {
-        "title":"عوالم خفية: عادل امام",
+        "title":"عندي ما نقلك",
         "provider":"youtube",
         "arguments":[
-          "PL-B8gtvyiv77qtajkUWav1nceoQqyeoFA",
+          "PLTGtCMX0-RuIjh0qNJIggbRVRXD3MxkN9",
           "playlist"
 
         ]
       }
 	     ,
 	        {
-        "title":" يحيي الفخرانى: بالحجم العائلى ",
+        "title":" اضحك معنا ",
         "provider":"youtube",
         "arguments":[
-          "PLSjAYmnIUfsEB9ESc1kttvfQm3sR2do54",
+          "PLTGtCMX0-RuIByb8YZhSK_jRkGC_uHBau",
           "playlist"
 
         ]
       } 
 	 ,
 	        {
-        "title":"مسلسل أيوب",
+        "title":"ما لم يقل",
         "provider":"youtube",
         "arguments":[
-          "PLEywN28C5m6pfnGt9sdUEwXX5yUSqZNZT",
+          "PLTGtCMX0-RuIoKlardazc7QiqIEGHnYaO",
           "playlist"
 
         ]
@@ -249,56 +113,6 @@
 		
 
 	
-	
-	{
-     "title":"قائمة البرامج",
-    "drawable":"",
-    "submenu":"برامج ",
-    "iap":false,
-    "tabs":[
-	    {
-        "title":"معكم منى الشاذلي",
-        "provider":"youtube",
-        "arguments":[
-          "UCcucB5aJ0xmv5OEKQwzAUjw",
-          "channel"
-
-        ]
-      }
-	    ,
-	        {
-        "title":"Fares Shady ",
-        "provider":"youtube",
-        "arguments":[
-          "UCRWf_hR8lsQwnKhp8P82_bg",
-          "channel"
-
-        ]
-      }
-	     ,
-	        {
-        "title":" الحكاية ",
-        "provider":"youtube",
-        "arguments":[
-          "UC1F59TWMyxxVKI-8sWaI5nA",
-          "channel"
-
-        ]
-      } 
-	 ,
-	        {
-        "title":" Fozi Mozi ",
-        "provider":"youtube",
-        "arguments":[
-          "UCb9PvQ2Gv9FDIlwZubVgTaQ",
-          "channel"
-
-        ]
-      } 
-	     
-  ]
-  }
-,
 	
 	
 	
