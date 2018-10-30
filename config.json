@@ -6,6 +6,16 @@
     "submenu":"اعادة البرامج ",
     "iap":false,
     "tabs":[
+	    
+	       {
+        "title":"الحوار التونسي",
+        "provider":"youtube",
+        "arguments":[
+          "UCXzmMkXaHxMVlutDBD8goHA",
+          "channel"
+
+        ]
+      },  
     {
         "title":"90 minutes",
         "provider":"youtube",
@@ -66,6 +76,16 @@
     "submenu":"اعادة البرامج ",
     "iap":false,
     "tabs":[
+	     {
+        "title":"التاسعة",
+        "provider":"youtube",
+        "arguments":[
+          "UCQS3ejF2jBAhwmbGD9Q3oeA",
+          "channel"
+
+        ]
+      }
+	    ,
 	    {
         "title":"Abdelli Showtime",
         "provider":"youtube",
@@ -95,6 +115,17 @@
 
         ]
       } 
+	    
+	 ,
+	        {
+        "title":"ما لم يقل",
+        "provider":"youtube",
+        "arguments":[
+          "PLTGtCMX0-RuI8NlaqgH_G-8g_L76VcE4U",
+          "playlist"
+
+        ]
+      } 
 	 ,
 	        {
         "title":"ما لم يقل",
@@ -104,14 +135,208 @@
           "playlist"
 
         ]
+      } ,
+	        {
+        "title":"من تونس",
+        "provider":"youtube",
+        "arguments":[
+          "PLTGtCMX0-RuLz-qoGhBjtVw5poAycr9T-",
+          "playlist"
+
+        ]
       } 
 	     
   ]
   }
+	,
+	{
+     "title":"الحلقات  ",
+    "drawable":"",
+    "submenu":"سيتكوم تونسية ",
+    "iap":false,
+    "tabs":[
+	
+	        {
+        "title":"موسم 2005",
+        "provider":"youtube",
+        "arguments":[
+          "PL6TjelGzBJrWK9Avy3doBfhc_VjKToZ1d",
+          "playlist"
+
+        ]
+      }
+	    
+	    ,
+	        {
+        "title":"موسم 2006",
+        "provider":"youtube",
+        "arguments":[
+          "PLtKHe7Z2QnnGstKc69LrO3xZwdN0LKhYR",
+          "playlist"
+
+        ]
+      }
+	    
+	 
+	 ,
+	        {
+        "title":" موسم 2007",
+        "provider":"youtube",
+        "arguments":[
+          "PLtKHe7Z2QnnFi-AOO638jza_yYGzef663",
+          "playlist"
+
+        ]
+      } ,
+	        {
+        "title":" موسم 2008",
+        "provider":"youtube",
+        "arguments":[
+          "PLtKHe7Z2QnnH7XzkWjOUlsDIR45WCZjIH",
+          "playlist"
+
+        ]
+      }
+	       ,
+	    
+		        {
+        "title":" موسم 2009",
+        "provider":"youtube",
+        "arguments":[
+          "PLtKHe7Z2QnnFIqdlGYw5_xYpQpiPooQeg",
+          "playlist"
+
+        ]
+      }     
+  ]
+  }
 ,
 
-		
 
+		{
+     "title":"أولاد مفيدة",
+    "drawable":"",
+    "submenu":"مسلسلات تونسية ",
+    "iap":false,
+    "tabs":[
+	            
+	            {
+        "title":" الموسم الاول ",
+        "provider":"youtube",
+        "arguments":[
+          "PLFApv2COP4eouxGWNj5_CTrBrjl6RnIXO",
+          "playlist"
+
+        ]
+      },  
+	              {
+        "title":"الموسم الثاني",
+        "provider":"youtube",
+        "arguments":[
+          "PLFApv2COP4ermf8wpxfGnxW--TsNGrUJs",
+          "playlist"
+
+        ]
+      },  
+	              {
+        "title":"الموسم الثالث",
+        "provider":"youtube",
+        "arguments":[
+          "PLFApv2COP4eqjxesVEePk4VKSkFKUdnWy",
+          "playlist"
+
+        ]
+      }
+	    
+	    ]
+	}
+	,
+		{
+     "title":" مكتوب",
+    "drawable":"",
+    "submenu":"مسلسلات تونسية ",
+    "iap":false,
+    "tabs":[
+	            
+	            {
+        "title":" الموسم الاول ",
+        "provider":"youtube",
+        "arguments":[
+          "PLvuiC-ftvBUXDX5WO0VYGBZHqYkFExR42",
+          "playlist"
+
+        ]
+      },  
+	              {
+        "title":"الموسم الثاني",
+        "provider":"youtube",
+        "arguments":[
+          "PL-WZ0q0SEje04IUQJnyrA-lcvFh_O5gZw",
+          "playlist"
+
+        ]
+      },  
+	              {
+        "title":"الموسم الثالث",
+        "provider":"youtube",
+        "arguments":[
+          "PLFApv2COP4eryEq2U4ZJP_tmoM42e0XG0",
+          "playlist"
+
+        ]
+      }
+	,
+	             {
+        "title":"الموسم الرابع",
+        "provider":"youtube",
+        "arguments":[
+          "PLFApv2COP4eohI7nndcB86uu8WYSdjqEf",
+          "playlist"
+
+        ]
+      }
+	    ]
+	}
+	,
+		
+{
+     "title":"دنيا اخري",
+    "drawable":"",
+    "submenu":"سيتكوم تونسية ",
+    "iap":false,
+    "tabs":[
+	            
+	            {
+        "title":" الموسم الاول ",
+        "provider":"youtube",
+        "arguments":[
+          "PLFApv2COP4eqyVmGeU3lsyR0nKzHaoGvW",
+          "playlist"
+
+        ]
+      },  
+	              {
+        "title":"الموسم الثاني",
+        "provider":"youtube",
+        "arguments":[
+          "PLFApv2COP4ep_N76PBmJ6Pk5OSodDempI",
+          "playlist"
+
+        ]
+      },  
+	              {
+        "title":"الموسم الثالث",
+        "provider":"youtube",
+        "arguments":[
+          "PLFApv2COP4eoXum4THeJKpA9Z8na0w1ku",
+          "playlist"
+
+        ]
+      }
+	    
+	    ]
+	}
+	,
 	{
     "title":"الوطنية 1",
     "drawable":"",
