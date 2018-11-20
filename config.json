@@ -375,7 +375,21 @@
 	,
 
 	
-	    
+	{
+   "title":"Films",
+    "drawable":"",
+    "submenu":"بث مباشر",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+"https://aflam4you.tv/browse-films-videos-1-date.html"        ]
+      }
+    ]
+
+  },    
 {
    "title":"Nessma TV",
     "drawable":"",
