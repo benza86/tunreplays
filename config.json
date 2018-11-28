@@ -107,6 +107,16 @@
 
         ]
       }    
+	    ,
+	          {
+        "title":"90 minutes",
+        "provider":"youtube",
+        "arguments":[
+          "UCJsji54afJ0NG3EggC5nFLQ",
+          "channel"
+
+        ]
+      }  
    
   ]
   }
@@ -133,7 +143,7 @@
       }
 	    ,
 	    {
-        "title":"Abdelli Showtime",
+        "title":"Abdelli Showtime (في الاسفل)",
         "provider":"youtube",
         "arguments":[
           "PLTGtCMX0-RuKLhRsZiCPHCaS30yeybBEj",
@@ -161,10 +171,40 @@
 
         ]
       } 
+	      ,
+	        {
+        "title":"في الاسفل - ديما لاباس",
+        "provider":"youtube",
+        "arguments":[
+          "PLTGtCMX0-RuLehOwrFqVhIxpBY9OymK1A",
+          "playlist"
+
+        ]
+      } 
 	    
 	 ,
+	      {
+        "title":"التاسعة سبور - أسفل",
+        "provider":"youtube",
+        "arguments":[
+          "PLTGtCMX0-RuKwNDQos4jy7wBEoNcF49Dk",
+          "playlist"
+
+        ]
+      } 
+	 ,
+	          {
+        "title":"Tout Neuf",
+        "provider":"youtube",
+        "arguments":[
+          "PLTGtCMX0-RuJmRAtWjmp842QAFMI5OQiJ",
+          "playlist"
+
+        ]
+      } 
+	 ,
 	        {
-        "title":"ما لم يقل",
+        "title":"L'Emission",
         "provider":"youtube",
         "arguments":[
           "PLTGtCMX0-RuI8NlaqgH_G-8g_L76VcE4U",
@@ -178,6 +218,16 @@
         "provider":"youtube",
         "arguments":[
           "PLTGtCMX0-RuIoKlardazc7QiqIEGHnYaO",
+          "playlist"
+
+        ]
+      } ,
+	     
+	        {
+        "title":" RDV 9",
+        "provider":"youtube",
+        "arguments":[
+          "PLTGtCMX0-RuJs1ESdGyFMEL9MrSEcyU8s",
           "playlist"
 
         ]
@@ -386,7 +436,7 @@
 	{
     "title":"الوطنية 1",
     "drawable":"",
-    "submenu":"بث المباريات",
+    "submenu":"الوطنية",
     "iap":false,
     "tabs":[
 	  
