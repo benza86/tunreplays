@@ -38,6 +38,15 @@
         "title":"أمور جدية",
         "provider":"youtube",
         "arguments":[
+          "PLFApv2COP4eoQ__MyhzIl5tC5XZ0imkA6",
+          "playlist"
+
+        ]
+      },  
+	        {
+        "title":"Best Of أمور جدية",
+        "provider":"youtube",
+        "arguments":[
           "PLFApv2COP4eoPaSDXWe39GSya8y0RelCL",
           "playlist"
 
@@ -53,7 +62,16 @@
         ]
       },  
 	          {
-        "title":"مع علاء الحلقات في الاسفل",
+        "title":"مع علاء",
+        "provider":"youtube",
+        "arguments":[
+          "PLFApv2COP4eq8NWXxLfXf-jpt0kBoMDYl",
+          "playlist"
+
+        ]
+      },  
+	          {
+        "title":"مع علاء Best Of",
         "provider":"youtube",
         "arguments":[
           "PLFApv2COP4ep_f9agf4ujqx1vuT4X1CmW",
@@ -65,7 +83,7 @@
         "title":"DTEP",
         "provider":"youtube",
         "arguments":[
-          "PLFApv2COP4ern5f2fVXJlH8-HGx9oMIZI",
+          "PLFApv2COP4eql7Z38NespXuPAFu7vITMN",
           "playlist"
 
         ]
