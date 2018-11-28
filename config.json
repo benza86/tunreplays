@@ -17,7 +17,7 @@
         ]
       },  
     {
-        "title":"90 minutes",
+        "title":"90 minutes (الجديد في الاسفل)",
         "provider":"youtube",
         "arguments":[
           "PLFApv2COP4erdokozW_o2xeRy--zYbfMX",
@@ -43,8 +43,17 @@
 
         ]
       },  
+	       {
+        "title":"Bas les Masques",
+        "provider":"youtube",
+        "arguments":[
+          "PLFApv2COP4eoVbXvveFKByjI2K1MW6eVB",
+          "playlist"
+
+        ]
+      },  
 	          {
-        "title":"مع علاء",
+        "title":"مع علاء الحلقات في الاسفل",
         "provider":"youtube",
         "arguments":[
           "PLFApv2COP4ep_f9agf4ujqx1vuT4X1CmW",
@@ -60,7 +69,26 @@
           "playlist"
 
         ]
+      },
+	          {
+        "title":"Bas les Masques BEST OF",
+        "provider":"youtube",
+        "arguments":[
+          "PLFApv2COP4eoeuWUtPMMOPVfePyEe97M_",
+          "playlist"
+
+        ]
       }
+	,
+	          {
+        "title":"تونس اليوم",
+        "provider":"youtube",
+        "arguments":[
+          "PLFApv2COP4erVzJM3tOBkhF2G622d2QwN",
+          "playlist"
+
+        ]
+      }    
    
   ]
   }
