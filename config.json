@@ -6,7 +6,33 @@
     "submenu":"اعادة البرامج ",
     "iap":false,
     "tabs":[
-	    
+	          {
+        "title":"قسمة وخيان",
+        "provider":"youtube",
+        "arguments":[
+          "PLFApv2COP4ep5b6zWhDCBj0WAI62SX1NN",
+          "playlist"
+
+        ]
+      },   
+	       {
+        "title":"أولاد مفيدة",
+        "provider":"youtube",
+        "arguments":[
+          "PLFApv2COP4eoOE0i2naOEX30mJ1cCR-QR",
+          "playlist"
+
+        ]
+      },    
+	         {
+        "title":"مشاعر",
+        "provider":"youtube",
+        "arguments":[
+          "UCieptcUtPVXXqPTJtruYlKg",
+          "channel"
+
+        ]
+      },     
 	       {
         "title":"الحوار التونسي",
         "provider":"youtube",
@@ -132,12 +158,32 @@
     "submenu":"اعادة البرامج ",
     "iap":false,
     "tabs":[
-	     {
-        "title":"التاسعة",
+	         {
+        "title":"القضية 460",
         "provider":"youtube",
         "arguments":[
-          "UCQS3ejF2jBAhwmbGD9Q3oeA",
-          "channel"
+          "PLTGtCMX0-RuJMxUHT30HrIIXliCVU2Qng",
+          "playlist"
+
+        ]
+      }
+	    ,
+	        {
+        "title":"القضية 460",
+        "provider":"youtube",
+        "arguments":[
+          "PLTGtCMX0-RuJMxUHT30HrIIXliCVU2Qng",
+          "playlist"
+
+        ]
+      }
+	    ,
+	     {
+        "title":"الهربة",
+        "provider":"youtube",
+        "arguments":[
+          "PLTGtCMX0-RuKTzenjq-nuS6mS8U3ygGVw",
+          "playlist"
 
         ]
       }
