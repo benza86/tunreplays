@@ -302,6 +302,30 @@
   ]
   }
 	,
+	
+	
+	,
+		{
+     "title":"Mosaique FM",
+    "drawable":"",
+    "submenu":"اعادة البرامج",
+    "iap":false,
+    "tabs":[
+	            
+	            {
+        "title":"Mosaique FM",
+        "provider":"youtube",
+        "arguments":[
+          "UC6y8T-vG9SeQ-FKOCt_o8MA",
+          "channel"
+
+        ]
+      }
+	             
+	    ]
+	}
+	,
+	
 		{
      "title":"الوطنية",
     "drawable":"",
