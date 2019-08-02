@@ -6,6 +6,15 @@
     "submenu":"اعادة البرامج ",
     "iap":false,
     "tabs":[
+	         {
+        "title":"الحوار التونسي",
+        "provider":"youtube",
+        "arguments":[
+          "UCXzmMkXaHxMVlutDBD8goHA",
+          "channel"
+
+        ]
+      },  
 	          {
         "title":"قسمة وخيان",
         "provider":"youtube",
@@ -158,6 +167,17 @@
     "submenu":"اعادة البرامج ",
     "iap":false,
     "tabs":[
+	        {
+        "title":"التاسعة ",
+        "provider":"youtube",
+        "arguments":[
+          "UCQS3ejF2jBAhwmbGD9Q3oeA",
+          "channel"
+
+        ]
+      }
+	 
+	    ,
 	         {
         "title":"القضية 460",
         "provider":"youtube",
@@ -290,11 +310,21 @@
     "tabs":[
 	            
 	            {
-        "title":" المايسترو",
+        "title":" الوطنية 1",
         "provider":"youtube",
         "arguments":[
-          "PLtKHe7Z2QnnG0oLLDY2u8uno_9PQN_tts",
-          "playlist"
+          "UCdvWVsmQBROkgcGzVep73oA",
+          "channel"
+
+        ]
+      }
+	    ,
+	       {
+        "title":" الوطنية 2",
+        "provider":"youtube",
+        "arguments":[
+          "UCJW9gatYczI191TunQxMGbA",
+          "channel"
 
         ]
       }
