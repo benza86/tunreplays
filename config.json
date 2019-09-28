@@ -617,13 +617,29 @@
         "title":"WebView",
         "provider":"webview",
         "arguments":[
-"https://elhiwarettounsi.com/live.html"        ]
+"https://www.elhiwarettounsi.com/direct.html"        ]
       }
     ]
 
   }
 	
 	    ,
+	 {
+   "title":"Attasia",
+    "drawable":"",
+    "submenu":"بث مباشر",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+"http://www.attessia.tv/live"        ]
+      }
+    ]
+
+  }
+	,
 	 {
    "title":"France 24 Ar",
     "drawable":"",
