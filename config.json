@@ -15,11 +15,51 @@
 
         ]
       },  
-	          {
-        "title":"قسمة وخيان",
+	    
+	       {
+        "title":"الي بعدو-- في الأسفل ",
         "provider":"youtube",
         "arguments":[
-          "PLFApv2COP4ep5b6zWhDCBj0WAI62SX1NN",
+          "PLFApv2COP4ep4wpyxLIuodT7BjvLSAUpJ",
+          "playlist"
+
+        ]
+      },  
+	    
+	       {
+        "title":"صفي قلبك ",
+        "provider":"youtube",
+        "arguments":[
+          "PLFApv2COP4epTgJF0j0SyiIS7B1tCtm5A",
+          "playlist"
+
+        ]
+      },  
+	 
+	     {
+        "title":"تونس اليوم",
+        "provider":"youtube",
+        "arguments":[
+          "PLFApv2COP4erVzJM3tOBkhF2G622d2QwN",
+          "playlist"
+
+        ]
+      }    
+	    ,
+	          {
+        "title":"90 minutes",
+        "provider":"youtube",
+        "arguments":[
+          "PLFApv2COP4er5Ki-WkiHpzfYD0p4Oc8Gb",
+          "playlist"
+
+        ]
+      }  ,
+	    {
+        "title":"الحقائق الأربعة",
+        "provider":"youtube",
+        "arguments":[
+          "PLFApv2COP4erZbnp5nOASE02He8fcLbIJ",
           "playlist"
 
         ]
@@ -43,23 +83,15 @@
         ]
       },     
 	       {
-        "title":"الحوار التونسي",
+        "title":"JDT",
         "provider":"youtube",
         "arguments":[
-          "UCXzmMkXaHxMVlutDBD8goHA",
-          "channel"
-
-        ]
-      },  
-    {
-        "title":"90 minutes (الجديد في الاسفل)",
-        "provider":"youtube",
-        "arguments":[
-          "PLFApv2COP4erdokozW_o2xeRy--zYbfMX",
+          "PLFApv2COP4erEGQyReb6-BFurYbxTn3bq",
           "playlist"
 
         ]
       },  
+
 	         {
         "title":"فكرة سامي الفهري",
         "provider":"youtube",
@@ -79,19 +111,10 @@
         ]
       },  
 	        {
-        "title":"Best Of أمور جدية",
+        "title":"تونس اليوم",
         "provider":"youtube",
         "arguments":[
-          "PLFApv2COP4eoPaSDXWe39GSya8y0RelCL",
-          "playlist"
-
-        ]
-      },  
-	       {
-        "title":"Bas les Masques",
-        "provider":"youtube",
-        "arguments":[
-          "PLFApv2COP4eoVbXvveFKByjI2K1MW6eVB",
+          "PLFApv2COP4epj7PI4yRpMwZeSExOF_8KR",
           "playlist"
 
         ]
@@ -132,26 +155,7 @@
 
         ]
       }
-	,
-	          {
-        "title":"تونس اليوم",
-        "provider":"youtube",
-        "arguments":[
-          "PLFApv2COP4erVzJM3tOBkhF2G622d2QwN",
-          "playlist"
-
-        ]
-      }    
-	    ,
-	          {
-        "title":"90 minutes",
-        "provider":"youtube",
-        "arguments":[
-          "UCJsji54afJ0NG3EggC5nFLQ",
-          "channel"
-
-        ]
-      }  
+	
    
   ]
   }
@@ -178,7 +182,31 @@
       }
 	 
 	    ,
-	         {
+	      
+	       {
+        "title":"ديما لاباس",
+        "provider":"youtube",
+        "arguments":[
+          "PLTGtCMX0-RuINs1G8AB0ocuyFOIZB1PeJ",
+          "playlist"
+
+        ]
+      }
+	 
+	    ,
+	       {
+        "title":"Attasia Sport",
+        "provider":"youtube",
+        "arguments":[
+          "PLTGtCMX0-RuJpVP7m8iJHhgT9P4r4GyPP&index=3",
+          "playlist"
+
+        ]
+      }
+	 
+	    ,
+	    
+	    {
         "title":"القضية 460",
         "provider":"youtube",
         "arguments":[
@@ -358,7 +386,7 @@
 	,
 	
 	{
-     "title":"الحلقات  ",
+     "title":"شوفلي حل  ",
     "drawable":"",
     "submenu":"سيتكوم تونسية ",
     "iap":false,
@@ -554,6 +582,96 @@
 	}
 	,
 	{
+    "title": "Carthage Plus",
+    "drawable":"",
+    "submenu":"Carthage +",
+    "iap":false,
+    "tabs":[
+	  
+	           {
+        "title":" Carthage+",
+        "provider":"youtube",
+        "arguments":[
+          "UCGUJmSULytsw0igdrXvo7mw",
+          "channel"
+		]
+	       }
+	    ]
+	  }
+	,
+	{
+    "title":"الزيتونة",
+    "drawable":"",
+    "submenu":"الزيتونة",
+    "iap":false,
+    "tabs":[
+	  
+	           {
+        "title":" Zitouna",
+        "provider":"youtube",
+        "arguments":[
+          "UCGtFpP5z1FWT0P-FrfaFk_Q",
+          "channel"
+		]
+	       }
+	    ]
+	  }
+	,
+	{
+    "title": "Al Insen",
+    "drawable":"",
+    "submenu":"Al insen",
+    "iap":false,
+    "tabs":[
+	  
+	           {
+        "title":" Al insen",
+        "provider":"youtube",
+        "arguments":[
+          "UCHGo-gQ_H6dnFJ9XwUxgTsA",
+          "channel"
+		]
+	       }
+	    ]
+	  }
+	,
+	{
+   "title": "Mtunisia",
+    "drawable":"",
+    "submenu":"Mtunisia",
+    "iap":false,
+    "tabs":[
+	  
+	           {
+        "title":"M Tunisia",
+        "provider":"youtube",
+        "arguments":[
+          "UCz0NBDbpxAI7IIqFjhXbFyA",
+          "channel"
+		]
+	       }
+	    ]
+	  }
+	,
+{
+      "title": "MBC The Voice",
+    "drawable":"",
+    "submenu":"MBC The Voice",
+    "iap":false,
+    "tabs":[
+	  
+	           {
+        "title":"MBC The voice",
+        "provider":"youtube",
+        "arguments":[
+          "UCBgVoRRoRuIpVwD6CfoBRag",
+          "channel"
+		]
+	       }
+	    ]
+	  }
+	,
+	{
     "title":"الوطنية 1",
     "drawable":"",
     "submenu":"الوطنية",
@@ -591,7 +709,21 @@
 	,
 
 	
+{
+   "title":"القنوات التونسية",
+    "drawable":"",
+    "submenu":"بث مباشر",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+"https://tunisie360.net"        ]
+      }
+    ]
 
+  },
 {
    "title":"Nessma TV",
     "drawable":"",
@@ -625,6 +757,23 @@
 	
 	    ,
 	 {
+   "title":"ElHiwar Ettounsi 2",
+    "drawable":"",
+    "submenu":"بث مباشر",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+"http://tunisie360.net/tv-tunisienne/elhiwar-ettounsi"        ]
+      }
+    ]
+
+  }
+	
+	    ,
+	 {
    "title":"Attasia",
     "drawable":"",
     "submenu":"بث مباشر",
@@ -639,63 +788,8 @@
     ]
 
   }
-	,
-	 {
-   "title":"France 24 Ar",
-    "drawable":"",
-    "submenu":"بث مباشر",
-    "iap":false,
-    "tabs":[
-     {
-        "title":"France 24 Ar",
-        "provider":"youtube",
-        "arguments":[
-          "PLpuTkbiVtmphb3aZUCNMzthlZOP3ONKXX",
-          "playlist"
-
-        ]
-     }
-	 ]
-
-  }
-	  ,
-	 {
-   "title":"France 24 Fr",
-    "drawable":"",
-    "submenu":"بث مباشر",
-    "iap":false,
-    "tabs":[
-     {
-        "title":"France 24 Fr",
-        "provider":"youtube",
-        "arguments":[
-          "PLpuTkbiVtmpgsR0u8rejodNEwpMpKWLkS",
-          "playlist"
-
-        ]
-     }
-	 ]
-
-  }
-	,
-		 {
-   "title":"الجزيرة",
-    "drawable":"",
-    "submenu":"بث مباشر",
-    "iap":false,
-    "tabs":[
-     {
-        "title":"Watania 1",
-        "provider":"youtube",
-        "arguments":[
-          "PLpuTkbiVtmpgMlMxGfzQV8oDrZ1skdonC",
-          "playlist"
-
-        ]
-     }
-	 ]
-
-  }
+	
+	
 	    ,
 	 {
    "title":"Arabia",
