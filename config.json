@@ -1,4 +1,812 @@
 [
+    {
+    "title":"الحوار التونسي",
+    "drawable":"",
+    "submenu":"جميع الاعادات",
+    "iap":true,
+    "tabs":[
+	 
+	    {
+        "title":"البرامج اعادة",
+        "provider":"webview",
+        "arguments":[
+          "http://medooappli.xyz/hiw1.html"
+        ]
+      },       
+	      {
+        "title":"LIVE",
+        "provider":"webview",
+        "arguments":[
+          "https://www.dailymotion.com/video/k4yFbCYMu8BMI3vrUkv"
+        ]
+      }
+	      ,
+	         
+	      {
+        "title":"LIVE2",
+        "provider":"webview",
+        "arguments":[
+          "https://www.elhiwarettounsi.com/vod/live"
+        ]
+      }
+	 ,
+	     
+	      
+	     {
+        "title":"JDT",
+        "provider":"webview",
+        "arguments":[
+          "http://medooappli.xyz/jdt.html"
+        ]
+      },
+	      
+	       {
+        "title":"الحقائق الأربعة",
+        "provider":"webview",
+        "arguments":[
+          "http://medooappli.xyz/7a9.html"
+        ]
+      }
+	    ,
+	       {
+        "title":" صفي قلبك",
+        "provider":"webview",
+        "arguments":[
+          "http://medooappli.xyz/safi.html"
+        ]
+      }
+	      ,
+	       {
+        "title":" فكرة سامي الفهري",
+        "provider":"webview",
+        "arguments":[
+          "http://medooappli.xyz/fekret.html"
+        ]
+      },
+	       {
+        "title":"Cash or Splash",
+        "provider":"webview",
+        "arguments":[
+          "http://medooappli.xyz/cash.html"
+        ]
+      },
+	    {
+        "title":"ملا توانسة",
+        "provider":"webview",
+        "arguments":[
+          "http://medooappli.xyz/malla.html"
+        ]
+      },
+	      {
+        "title":"صفي قلبك",
+        "provider":"webview",
+        "arguments":[
+          "http://medooappli.xyz/saffi.html"
+        ]
+      },
+	         
+	      {
+        "title":"مسلسلات",
+        "provider":"webview",
+        "arguments":[
+          "http://medooappli.xyz/ramadan.html"
+        ]
+      }
+	   
+	  ,
+	     {
+        "title":"update",
+        "provider":"webview",
+        "arguments":[
+          "http://medooappli.xyz/update.html"
+        ]
+      }
+	  
+	  
+    ]
+
+  },
+ {
+    "title":"التاسعة",
+    "drawable":"",
+    "submenu":"جميع الاعادات",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"LIVE نعتذر المشكل من المصدر",
+        "provider":"webview",
+        "arguments":[
+          "http://tunisie14.tn/media/television-tunisienne/attasia-tv"
+        ]
+      },
+	         {
+        "title":"البرامج اعادة",
+        "provider":"webview",
+        "arguments":[
+          "http://medooappli.xyz/tas1.html"
+        ]
+      },
+	    {
+        "title":"عندي ما نقلك",
+        "provider":"webview",
+        "arguments":[
+          "http://medooappli.xyz/andiman.html"
+        ]
+      },  
+	        {
+        "title":"ABDELLI SHOWTIME",
+        "provider":"webview",
+        "arguments":[
+          "http://medooappli.xyz/abdelli.html"
+        ]
+      }, 
+	          {
+        "title":"وحش الشاشة",
+        "provider":"webview",
+        "arguments":[
+          "http://medooappli.xyz/wa7ch.html"
+        ]
+      }, 
+	         {
+		        "title":"هذه اخرتها",
+	 
+        "provider":"webview",
+        "arguments":[
+          "http://medooappli.xyz/hadiakh.html"
+        ]
+      },
+	         {
+        "title":"ديما لاباس",
+        "provider":"webview",
+        "arguments":[
+          "http://medooappli.xyz/dimalabes.html"
+        ]
+      },
+	         {
+        "title":"لمن يسهر فقط",
+        "provider":"webview",
+        "arguments":[
+          "http://medooappli.xyz/liman.html"
+        ]
+      },
+	     {
+        "title":"مسلسلات",
+        "provider":"webview",
+        "arguments":[
+          "http://medooappli.xyz/ramadan.html"
+        ]
+      },
+	         {
+        "title":"LIVE2",
+        "provider":"webview",
+        "arguments":[
+          "http://www.attessia.tv/live"
+        ]
+      }
+	   
+    ]
+
+  },
+		 {
+    "title":"Enquete exclusive",
+    "drawable":"",
+    "submenu":"Documentaire FR",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"Enquete exclusive",
+        "provider":"webview",
+        "arguments":[
+          "http://medooappli.xyz/enqexc.html"
+        ]
+      }
+	  
+    ]
+
+  },	
+	
+		 {
+    "title":"Capital",
+    "drawable":"",
+    "submenu":"Documentaire FR",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"Capital",
+        "provider":"webview",
+        "arguments":[
+          "http://medooappli.xyz/cap.html"
+        ]
+      }
+	  
+    ]
+
+  },	
+	 {
+    "title":"الوطنية 1",
+    "drawable":"",
+    "submenu":"Watania",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"LIVE",
+        "provider":"webview",
+        "arguments":[
+          "http://tunisie14.tn/media/television-tunisienne/wataniya-1"
+        ]
+      }
+	  
+    ]
+
+  },	
+	 {
+    "title":"الوطنية 2",
+    "drawable":"",
+    "submenu":"Watania",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"LIVE",
+        "provider":"webview",
+        "arguments":[
+          "http://tunisie14.tn/media/television-tunisienne/wataniya-2"
+        ]
+      }
+	  
+    ]
+
+  },	
+	{
+    "title":"جميع القنوات العربية",
+    "drawable":"",
+    "submenu":"بث مباشر",
+    "iap":true,
+    "tabs":[
+      {
+        "title":"LIVE",
+        "provider":"webview",
+        "arguments":[
+          "http://www.tunisvista.com/medias/index.html"
+        ]
+      }
+	  
+    ]
+
+  },
+	
+	{
+        "title":"Mosaique FM",
+
+    "drawable":"",
+    "submenu":"Radio",
+    "iap":true,
+    "tabs":[
+      {
+        "title":"Mosaique FM",
+        "provider":"webview",
+        "arguments":[
+          "http://medooappli.xyz/mosaique.html"
+        ]
+      }
+	  
+    ]
+
+  },
+	
+		{
+        "title":"I FM",
+    "drawable":"",
+    "submenu":"Radio",
+    "iap":true,
+    "tabs":[
+      {
+        "title":"IFM",
+        "provider":"webview",
+        "arguments":[
+          "http://medooappli.xyz/ifm.html"
+        ]
+      }
+	  
+    ]
+
+  },
+	
+  {
+        "title":"Mosaique FM",
+    "drawable":"",
+    "submenu":"RADIO LIVE",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"Mosaique FM",
+        "provider":"stream",
+        "arguments":[
+          "https://radio.mosaiquefm.net/mosalive"
+        ]
+      }
+	  ]
+	  }
+  ,
+	{
+        "title":"IFM",
+    "drawable":"",
+    "submenu":"RADIO LIVE",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"IFM",
+        "provider":"stream",
+        "arguments":[
+   "https://live.ifm.tn/radio/8000/ifmlive?1585267848"        ]
+      }
+	  ]
+	  }
+	    ,
+	{
+        "title":"Shems FM",
+    "drawable":"",
+    "submenu":"RADIO LIVE",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"Shems FM",
+        "provider":"stream",
+        "arguments":[
+          "http://stream6.tanitweb.com/shems"
+        ]
+      }
+	  ]
+	  }
+	    ,
+	{
+        "title":"Jawhara FM",
+    "drawable":"",
+    "submenu":"RADIO LIVE",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"Jawhara FM",
+        "provider":"stream",
+        "arguments":[
+          "http://streaming2.toutech.net:8000/jawharafm"
+        ]
+      }
+	  ]
+	  }
+	    ,
+	{
+        "title":"Nejma FM",
+    "drawable":"",
+    "submenu":"RADIO LIVE",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"Nejma FM",
+        "provider":"stream",
+        "arguments":[
+          "http://188.166.109.186:8000/stream"
+        ]
+      }
+	  ]
+	  }
+	    ,
+	{
+        "title":"Radio Med",
+    "drawable":"",
+    "submenu":"RADIO LIVE",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"Radio Med",
+        "provider":"stream",
+        "arguments":[
+          "http://stream6.tanitweb.com/radiomed"
+        ]
+      }
+	  ]
+	  }
+	    ,
+	{
+        "title":"Radio Monastir",
+    "drawable":"",
+    "submenu":"RADIO LIVE",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"Radio Monastir",
+        "provider":"stream",
+        "arguments":[
+          "http://rtstream.tanitweb.com/monastir"
+        ]
+      }
+	  ]
+	  }
+	    ,
+	{
+        "title":"Radio nationale",
+    "drawable":"",
+    "submenu":"RADIO LIVE",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"Radio nationale",
+        "provider":"stream",
+        "arguments":[
+          "http://rtstream.tanitweb.com/nationale"
+        ]
+      }
+	  ]
+	  }
+	    ,
+	{
+        "title":"Zitouna FM",
+    "drawable":"",
+    "submenu":"RADIO LIVE",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"Zitouna FM",
+        "provider":"stream",
+        "arguments":[
+          "https://stream6.tanitweb.com/zitounafm"
+        ]
+      }
+	  ]
+	  }
+
+	    ,
+	{
+        "title":"Sabra FM",
+    "drawable":"",
+    "submenu":"RADIO LIVE",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"Sabra FM",
+        "provider":"stream",
+        "arguments":[
+          "http://stream6.tanitweb.com/sabrafm"
+        ]
+      }
+	  ]
+	  }
+	    ,
+	
+	 
+	  {
+   "title":"الشروق",
+    "drawable":"",
+    "submenu":"جرائد",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+          "http://www.alchourouk.com"
+        ]
+      }
+    ]
+
+  },
+	{
+   "title":"المصدر",
+    "drawable":"",
+    "submenu":"جرائد",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+          "https://ar.webmanagercenter.com/"
+        ]
+      }
+    ]
+
+  },
+	
+	{
+   "title":"اخر خبر",
+    "drawable":"",
+    "submenu":"جرائد",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+          "http://www.akherkhabaronline.com/ar/1/actualites/%D9%88%D8%B7%D9%86%D9%8A%D8%A9"
+        ]
+      }
+	    
+    ]
+
+  },
+		{
+   "title":"الصباح",
+    "drawable":"",
+    "submenu":"جرائد",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+          "provider":"webview",
+        "arguments":[
+          "http://www.assabahnews.tn/rss-feed"
+        ]
+      }
+	    
+    ]
+
+  },
+			{
+   "title":"Tunisie Numérique",
+    "drawable":"",
+    "submenu":"جرائد",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+          "provider":"webview",
+        "arguments":[
+          "https://www.tunisienumerique.com/actualite-tunisie/politique/"
+        ]
+      }
+	    
+    ]
+
+  },
+			{
+   "title":"Business News",
+    "drawable":"",
+    "submenu":"جرائد",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+          "provider":"webview",
+        "arguments":[
+          "http://www.businessnews.com.tn/"
+        ]
+      }
+	    
+    ]
+
+  },
+		{
+   "title":"Leaders",
+    "drawable":"",
+    "submenu":"جرائد",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+          "provider":"webview",
+        "arguments":[
+          "http://www.leaders.com.tn/contentTopic"
+        ]
+      }
+	    
+    ]
+
+  },
+	{
+   "title":"Realites",
+    "drawable":"",
+    "submenu":"جرائد",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+          "provider":"webview",
+        "arguments":[
+          "https://www.realites.com.tn/category/news/"
+        ]
+      }
+	    
+    ]
+
+  },
+	{
+   "title":"Huffpost Maghreb",
+    "drawable":"",
+    "submenu":"جرائد",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+          "provider":"webview",
+        "arguments":[
+          "https://www.huffpostmaghreb.com/tunisie/"
+        ]
+      }
+	    
+    ]
+
+  },
+	{
+   "title":"أخبار موزاييك",
+    "drawable":"",
+    "submenu":"نشرات الأخبار",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+          "https://www.mosaiquefm.net/ar/rubrique/18/flash-infos"
+        ]
+      }
+    ]
+
+  },
+		 {
+   "title":"Sport Express",
+    "drawable":"",
+    "submenu":"نشرات الأخبار",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+          "https://www.mosaiquefm.net/ar/rubrique/2/sport-express"
+        ]
+      }
+    ]
+
+  },
+		 {
+   "title":"أخبار الاذاعة الوطنية",
+    "drawable":"",
+    "submenu":"نشرات الأخبار",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+          "http://www.radionationale.tn/podcast-category/%D8%A7%D9%84%D9%86%D8%B4%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D8%A5%D8%AE%D8%A8%D8%A7%D8%B1%D9%8A%D8%A9/"
+        ]
+      }
+    ]
+
+  },
+	
+	  {
+    "title":"المسلسلات التونسية رمضان 2020",
+    "drawable":"",
+    "submenu":"رمضان 2020",
+    "iap":true,
+    "tabs":[
+      {
+        "title":"مسلسلات",
+        "provider":"webview",
+        "arguments":[
+          "http://medooappli.xyz/ramadan.html"
+        ]
+      },
+	       {
+        "title":"أولاد مفيدة",
+        "provider":"webview",
+        "arguments":[
+          "http://medooappli.xyz/awled.html"
+        ]
+      },
+	       {
+        "title":"قلب الذيب",
+        "provider":"webview",
+        "arguments":[
+          "http://medooappli.xyz/9alb.html"
+        ]
+      },
+	       
+	   
+	       {
+        "title":"دنيا اخري",
+        "provider":"webview",
+        "arguments":[
+          "http://medooappli.xyz/denya.html"
+        ]
+      }
+	      ,
+	       {
+        "title":"27 ",
+        "provider":"webview",
+        "arguments":[
+          "http://medooappli.xyz/27.html"
+        ]
+      }
+	    ,
+	       {
+        "title":"Agent 86 ",
+        "provider":"webview",
+        "arguments":[
+          "http://medooappli.xyz/agent86.html"
+        ]
+      },
+	          {
+        "title":"النوبة2",
+        "provider":"webview",
+        "arguments":[
+          "https://artify.tn"
+        ]
+      },
+	    {
+        "title":"النوبة 2",
+        "provider":"webview",
+        "arguments":[
+          "https://nouba2.artify.tn/"
+        ]
+      }
+	    ,
+	    {
+        "title":"Tunis2050",
+        "provider":"webview",
+        "arguments":[
+          "http://medooappli.xyz/2050.html"
+        ]
+      }
+	    
+	  
+    ]
+
+  },
+	 {
+    "title":"قلبي اطمأن",
+    "drawable":"",
+    "submenu":" برامج",
+    "iap":false,
+    "tabs":[
+     
+	        {
+        "title":"النوبة2",
+        "provider":"webview",
+        "arguments":[
+          "http://medooappli.xyz/qalbi.html"
+        ]
+      }
+	   
+    ]
+
+  },	
+	
+ {
+    "title":"شوفلي حل",
+    "drawable":"",
+    "submenu":"جميع الاعادات",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"شوفلي حل",
+        "provider":"webview",
+        "arguments":[
+          "http://medooappli.xyz/choufli.html"
+        ]
+      }
+	   
+    ]
+
+  },	
+	
+	 {
+    "title":"نسمة",
+    "drawable":"",
+    "submenu":"جميع الاعادات",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"LIVE",
+        "provider":"webview",
+        "arguments":[
+          "http://tunisie14.tn/media/television-tunisienne/nessma-tv"
+        ]
+      }
+	  
+    ]
+
+  },	
 	
 	{
      "title":"الحوار التونسي  ",
@@ -766,7 +1574,7 @@
         "title":"WebView",
         "provider":"webview",
         "arguments":[
-"http://tunisie360.net/tv-tunisienne/elhiwar-ettounsi"        ]
+"http://tunisie360.net/tv-tunisienne/elhiwar-ettounsi-live"        ]
       }
     ]
 
@@ -1004,7 +1812,7 @@
         "title":"",
         "provider":"custom",
         "arguments":[
-          "com.kikiapps.i3adatunisie.SettingsFragment", "fragment"
+          "com.medooapps.tuni3ada.SettingsFragment", "fragment"
         ]
       }
     ]
